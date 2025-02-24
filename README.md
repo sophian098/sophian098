@@ -1,12 +1,15 @@
 ## Hi, I'm Sophia 👩‍💻👋
 
+
 ## 😄 About Me
 I'm a software engineering student at the University of Waterloo with a passion for full-stack development and a growing interest in AI/ML.  Outside of coding, I love staying active through running and hiking!
 
-##🔭 I'm Currently Working On
+
+## 🔭 I'm Currently Working On
 I'm currently working on building [Hs Hub](https://github.com/sophian098/hs_hub), a high school resource website! 
 
-##📫 How To Reach Me
+
+## 📫 How To Reach Me
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/sophianguyen01)
 
 <!--
