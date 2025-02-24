@@ -1,5 +1,6 @@
 ## Hi, I'm Sophia 👩‍💻👋
 
+![](typing_gif.gif)
 
 ## 😄 About Me
 I'm a software engineering student at the University of Waterloo with a passion for full-stack development and a growing interest in AI/ML.  Outside of coding, I love staying active through running and hiking!
